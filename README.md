@@ -4,9 +4,9 @@ Tutaj są nasze głupie pomysły na które wpadliśmy i chcemy je zrealizować.
 
 
 # Lista pomysłów (każdy pomysł to osbna gałąź):
- -lodziarka
- -skaner 3D z telefonu
- -krzesło biurowe na pilota
+ -lodziarka  
+ -skaner 3D z telefonu  
+ -krzesło biurowe na pilota  
 
 
 
