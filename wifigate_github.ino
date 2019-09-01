@@ -12,7 +12,7 @@ const char* ssid = "examplename"; //your wifi name
 const char* password = "examplepasswd"; //your wifi password
  //////////////////////////////////////////////////
 int ledPin = 12; // GPIO12---D6 of NodeMCU or you can change it if you want
-
+                 // Here we connect transistor
 
 WiFiServer server(80);
  
