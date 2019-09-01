@@ -20,11 +20,12 @@ You will need:
 **First set up ip tunneling:** \
 Opening port on your router would be a very bad idea we need to install ngrok to get a secure public link to our local ip so we can access it from IFTTT. I'm setting it up on raspberry pi beacuse it has to work 24/7 but you can use any other device (even a phone with app called userland).
 
-Download ngrok from https://ngrok.com/ to your specific device, I'm downloading Linux (ARM) for raspberry pi.
+Register and download ngrok from https://ngrok.com/ to your specific device, I'm downloading Linux (ARM) for raspberry pi if you are using other device download correct package. Also you will need authtoken, you can find it on ngrok Dashboard under Auth category.
 ```sh
 $ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo apt install unzip screen
 $ unzip ngrok-stable-linux-arm.zip
+$ ./ngrok authtoken yourauthtoken
 $ screen ./ngrok http http://your_esp_ip 
 ```
 And copy link which you see we will need it later.
