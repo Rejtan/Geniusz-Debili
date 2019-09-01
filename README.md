@@ -1,4 +1,5 @@
 You will need:
+-------------
 * esp8266 (I'm using nodemcu v3)
 * NPN transistor (almost any 30V tollerant will do beacuse most of gates have 250ma max power)
 * soldering iron
@@ -16,8 +17,8 @@ You will need:
 (optional)7.Make app to control the garage https://appinventor.mit.edu/, it's super easy so I recommend it.
 
 ### Connecting Google Assistant:
-First set up ip tunneling:
-Beacuse opening port on your router would be a very bad idea we need to install ngrok to get a secure public link to our local ip so we can access it from IFTTT. I'm setting it up on raspberry pi beacuse it has to work 24/7 but you can use any other device (even a phone with app called userland).
+**First set up ip tunneling:** \
+Opening port on your router would be a very bad idea we need to install ngrok to get a secure public link to our local ip so we can access it from IFTTT. I'm setting it up on raspberry pi beacuse it has to work 24/7 but you can use any other device (even a phone with app called userland).
 
 Download ngrok from https://ngrok.com/ to your specific device, I'm downloading Linux (ARM) for raspberry pi.
 ```sh
@@ -28,7 +29,7 @@ $ screen ./ngrok http http://your_esp_ip
 ```
 And copy link which you see we will need it later.
 
-Second:  
+**Second:**  
 1.Visit https://ifttt.com/ and login with your google account. \
 2.Create your own applet.  
 3.Clcik on this and search for google assistant.  
