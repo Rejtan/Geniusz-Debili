@@ -17,7 +17,7 @@ You will need:
 
 ### Connecting Google Assistant:
 First set up ip tunneling:
-Beacuse opening port on your router would be a very bad idea we need to install ngrok to get a secure public link to our local ip so we can access it from IFTTT. I'm setting it up on raspberry pi beacuse it has to work 24/7.
+Beacuse opening port on your router would be a very bad idea we need to install ngrok to get a secure public link to our local ip so we can access it from IFTTT. I'm setting it up on raspberry pi beacuse it has to work 24/7 but you can use any other device (even a phone with app called userland).
 
 Download ngrok from https://ngrok.com/ to your specific device, I'm downloading Linux (ARM) for raspberry pi.
 ```sh
