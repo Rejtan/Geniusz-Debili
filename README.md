@@ -23,7 +23,7 @@ Download ngrok from https://ngrok.com/ to your specific device, I'm downloading 
 ```sh
 $ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo apt install unzip screen
-$ unzip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
+$ unzip ngrok-stable-linux-arm.zip
 $ screen ./ngrok http https://your_esp_ip 
 ```
 And copy link which you see we will need it later.
