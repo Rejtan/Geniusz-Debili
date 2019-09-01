@@ -1,5 +1,5 @@
 
-For English users  
+<p style='color:red'>English</p>  
 
 ## List of our ideas (every idea has a branch):
 
@@ -11,7 +11,8 @@ For English users
 * oral-b electric toothbrush holder (stl file)
 
 
-#------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------  
+<p style='color:red'>Polish</p>  
 
 # Geniusz-Debili
 Tutaj są nasze głupie pomysły na które wpadliśmy i chcemy je zrealizować.
