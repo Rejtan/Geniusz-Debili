@@ -1,4 +1,4 @@
-#Basic Setup  
+Basic Setup:  
 
 1.Download and edit the code to your needs.   
 2.Get a NPN transistor (you can use other one if you know what you are doing).  
@@ -7,4 +7,4 @@
 5.Check the polarity, connect positive to collector and negative to emitter.  
 6.Connect esp to power and now your gate should open whenever you open this link http://ip-which-u-set-in-code/garage.  
 
-#Connecting Google Assistant
+Connecting Google Assistant:
