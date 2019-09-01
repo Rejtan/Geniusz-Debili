@@ -10,6 +10,9 @@ For English users
 * cheap wifi addon for (almost)every garage door opener (support for google assitant and android app)
 * oral-b electric toothbrush holder (stl file)
 
+
+#------------------------------------------------------------------------------------------------------------------------------
+
 # Geniusz-Debili
 Tutaj są nasze głupie pomysły na które wpadliśmy i chcemy je zrealizować.
 :P
