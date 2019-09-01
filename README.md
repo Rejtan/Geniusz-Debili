@@ -1,5 +1,7 @@
 
-<p style='color:red'>English</p>  
+
+English
+-------
 
 ## List of our ideas (every idea has a branch):
 
@@ -12,7 +14,16 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------  
-<p style='color:red'>Polish</p>  
+
+
+----------
+
+
+----------
+
+
+Polish
+------
 
 # Geniusz-Debili
 Tutaj są nasze głupie pomysły na które wpadliśmy i chcemy je zrealizować.
