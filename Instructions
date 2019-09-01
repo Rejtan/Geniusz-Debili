@@ -7,4 +7,6 @@ Basic Setup:
 5.Check the polarity, connect positive to collector and negative to emitter.  
 6.Connect esp to power and now your gate should open whenever you open this link http://ip-which-u-set-in-code/garage.  
 
+(optional)7.Make app to control the garage https://appinventor.mit.edu/, it's super easy so I recommend it.
+
 Connecting Google Assistant:
