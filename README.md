@@ -11,7 +11,7 @@ English
 * app for controlling whole IT room  [in-progress]   
 * cheap wifi addon for (almost)every garage door opener (support for google assitant and android app)  [done]  
 * oral-b electric toothbrush holder (stl file)  [done]  
-
+* DIY watermelon cooler
 
 -----------------------------------------------------------------------------------------------------------------------------  
 
@@ -37,6 +37,7 @@ Tutaj są nasze głupie pomysły na które wpadliśmy i chcemy je zrealizować.
  * aplikacja do sterowania całą salą informatyczną  [w trakcie]  
  * przeróbka do każdej bramy by miała wifi (google assitant, apka i takie sprawy)  [ukończone]  
  * trzymak na szczoteczki elektryczne  [ukończone]  
+ * chłodziarka do arbuzów  
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
