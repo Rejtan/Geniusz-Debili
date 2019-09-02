@@ -40,4 +40,4 @@ Tutaj są nasze głupie pomysły na które wpadliśmy i chcemy je zrealizować.
  * chłodziarka do arbuzów  
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
