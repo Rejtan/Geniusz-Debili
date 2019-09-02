@@ -5,7 +5,7 @@ English
 
 ## List of our ideas (every idea has a branch):
 
-* DIY icecream machine  [in-progress]   
+* DIY instant icecream machine  [in-progress]   
 * 3D scanner from phone (automatic scanning)  [in-progress]  
 * remote controled office chair  [in-progress]    
 * app for controlling whole IT room  [in-progress]   
@@ -31,7 +31,7 @@ Tutaj są nasze głupie pomysły na które wpadliśmy i chcemy je zrealizować.
 
 
 ## Lista pomysłów (każdy pomysł to osobna gałąź):  
- * lodziarka  [w trakcie]  
+ * lodziarka do tajskich lodów  [w trakcie]  
  * skaner 3D z telefonu (z automatycznym skanowaniem)  [w trakcie]  
  * krzesło biurowe na pilota  [w trakcie]  
  * aplikacja do sterowania całą salą informatyczną  [w trakcie]  
