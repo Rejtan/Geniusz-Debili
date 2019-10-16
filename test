@@ -8,8 +8,8 @@
 
 
 //////////////////////////////////////////////////
-const char* ssid = "dom"; //your wifi name
-const char* password = "54123456"; //your wifi password
+const char* ssid = "ZSOIT_MILOWKA"; //your wifi name
+const char* password = "5412345678"; //your wifi password
  //////////////////////////////////////////////////
 int ledPin = 12; // GPIO12---D6 of NodeMCU or you can change it if you want
                  // Here we connect transistor
@@ -32,9 +32,9 @@ void setup() {
 
 ///////////////////////////////////////
   
-  IPAddress ip(192,168,55,221);   //Here you have to set your esp ip (because dynamic ip in this case would be a pain)
-  IPAddress gateway(192,168,55,1);   //Remeber to change this
-  IPAddress subnet(255,255,255,0);   //And this is almost all the time the same but check too
+  IPAddress ip(192,168,20,99);   //Here you have to set your esp ip (because dynamic ip in this case would be a pain)
+  IPAddress gateway(192,168,20,1);   //Remeber to change this
+  IPAddress subnet(255,255,252,0);   //And this is almost all the time the same but check too
  
 //////////////////////////////////////
   
