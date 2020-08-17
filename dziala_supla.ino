@@ -1,11 +1,5 @@
-/**
- * Supla.org NodeMCU WiFi minimal example
- * Author: Programistyk - Kamil Kaminski <kamil@programistyk.pl>
- * 
- * This example shows how to configure SuplaDevice for building for NodeMCU within Arduino IDE
- */
 
-int button1;  //wartość dla przycisku1
+int button1; 
 int Step = 4; 
 int Dir  = 5; 
 
