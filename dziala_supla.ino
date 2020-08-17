@@ -31,8 +31,8 @@ int Dir  = 5;
 WiFiClient client;
 
 // Setup Supla connection
-const char* ssid     = "dom"; //np. const char* ssid     = "to wcale nie jest CBA";
-const char* password = "54123456"; //np. const char* password = "1jednaktak1";
+const char* ssid     = "SSID"; //np. const char* ssid     = "to wcale nie jest CBA";
+const char* password = "haslo"; //np. const char* password = "1jednaktak1";
 
 
 
@@ -46,7 +46,7 @@ void setup() {
 
 
   // Replace the falowing GUID
-  char GUID[SUPLA_GUID_SIZE] = {0x81,0x24,0x11,0x0A,0x78,0xF4,0x15,0x36,0x79,0xE5,0x69,0xA8,0xA1,0x39,0x34,0x99};
+  char GUID[SUPLA_GUID_SIZE] = {GUID ze strony};
   // with GUID that you can retrieve from https://www.supla.org/arduino/get-guid
 
   // Ethernet MAC address
@@ -62,9 +62,9 @@ void setup() {
 
   SuplaDevice.begin(GUID,              
                     mac,               
-                    "svr11.supla.org",  // adres serweru SUPLI
-                    4143,                 // ID lokacji
-                    "df62");               // Hasło lokacji
+                    "svrxxxx",  // adres serweru SUPLI
+                    xxxx,                 // ID lokacji
+                    "xxxx");               // Hasło lokacji
 
 }
 
